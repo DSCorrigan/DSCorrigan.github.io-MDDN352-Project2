@@ -1,0 +1,41 @@
+body {
+	background-color: #CB7E31 !important;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bookingjs {
+	margin: 6em 2em 2em 2em !important;
+}
+
+.fc-scroller {
+	height: 30em !important;
+}
+
+.fc-unthemed .fc-divider, .fc-unthemed .fc-popover, .fc-unthemed .fc-row, .fc-unthemed tbody, .fc-unthemed td, .fc-unthemed th, .fc-unthemed thead  {
+	border-color: #CB7E31 !important;
+}
+
+/* footer */
+.footer {
+	height: 3em;
+	background-color: #CB7E31;
+	display: block;
+	margin: -.6em -0.5em -0.5em;
+	left: auto;
+	right: auto;
+	overflow: hidden;
+}
+
+#footerLogo {
+	height: 2.5em;
+	max-width: 100%;
+	padding-left: 25em;
+	float: left;
+}
+
+#footerh4 {	
+	font-weight: 400;
+	font-size: .7em;
+	padding: 0em 2em;
+	float: left;
+}
